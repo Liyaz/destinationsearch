@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.tours {
+  height: 20vh;
+  border-radius: 5px;
+}
+.para {
+  font-family: 'Roboto';
+  color: #000000;
+}
+
+.lists {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
